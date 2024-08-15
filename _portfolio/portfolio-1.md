@@ -1,10 +1,9 @@
-<!--
 ---
 title: "Electric Vehicle Research"
 excerpt: "The present research aims to design the managing cooling system for the battery system, fabricate the cooling system and integrate the (BCS) with the battery pack. The function of this system is to measure the heat dissipated from the batteries in different conditions from discharging, idling charging and fast charging to deliver the corresponding coolant mass flow rate."
-collection: portfolio
+<!-- collection: portfolio -->
 ---
--->
+
 Research Work Objectives:
 =====
 
