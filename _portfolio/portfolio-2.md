@@ -1,98 +1,53 @@
 ---
-title: "Electric Vehicle Research"
-excerpt: "The present research aims to design the managing cooling system for the battery system, fabricate the cooling system and integrate the (BCS) with the battery pack. The function of this system is to measure the heat dissipated from the batteries in different conditions from discharging, idling charging and fast charging to deliver the corresponding coolant mass flow rate."
+title: "Machine Learning Projects "
+excerpt: "The following pages highlights some of the seleted projects i have may using AI, You are totally Welcome to visit my [GitHub](https://github.com/ahmedalkadi) Account to review and clone the code "
 collection: portfolio 
 ---
 
-## Research Work Objectives:
+# In the following pages some selected projects utilizing the AI in :
+
+1. Computer Vision.
+2. Deep fake.
+3. Natural language Models (NLP) Arabic and English.
+4. Recommender Systems.
+5. Machine learning (Supervised and Unsupersived).
+
+## Some other Related topics:
+1. Random Search Algorithim.
+2. Quantum Machine Learning Algorithims.
+3. Optimizers From Scratch Implementation.
+4. Models Architecture From Scratch Implementation.
+5. Webpages Scrapping. 
 
 
-1. Choose the suitable cooling method (bottom plate cooling, micro channels, immersed cooling or corrugated cooling tubes).
-2. Design mathematical representation of the battery heating.
-3. Build the computational domain in ANSYS software.
-4. Optimize the bottom plate internal grooves to ensure sufficient cooling and uniform battery thermal distribution.
-5. Study the effect of adding multiple cooling plates to the battery.
+# GitHub Projects:
 
-## Project Insights:
+## Computer Vision Projects:
+- [Visual And Textual Product Similarity Recommendation](https://github.com/ahmedalkadi/Visual_And_Textual_Products_Similarity):
+  This project recommends products based on their textual and visual similarity using cosine similarity. Visual features are extracted with ResNet-50, textual features with TinyBERT-6L, and images are preprocessed by        removing backgrounds using a UNet model with MobileNetV2 encoder. Features are combined into vectors, stored in a vector database, and used to find and visualize the top similar products.
+- [Driver distraction detector] (https://github.com/ahmedalkadi/Visual_And_Textual_Products_Similarity):
+  The project aims to identify the types of distracted driver through their facial and body movement like arms and face pose. The project went through many stages of testing to increase the accuracy of the prediction from   using simple NN to use pretrained models.
+
+## Deep fake project.
+- [Video Lip-Syncing](https://github.com/ahmedalkadi/Hight_Quality_LipSync):
+  The Lip-Syncing project focuses on creating a system that synchronizes lip movements with spoken audio using deep learning techniques. The project involves detecting language and converting audio to text, aligning lips    with the audio using Wav2Lip models, and enhancing video quality after face detection. The system is evaluated using LSE-D and LSE-C metrics, ensuring accurate and realistic lip-sync performance. This project aims to      improve multilingual lip-syncing, especially in Arabic, by fine-tuning the model with region-specific data.
+
+## Natural language Models (NLP) Projects.
+- [Arabic Dialect Classifier](https://github.com/ahmedalkadi/Arabic_Dialect_Detector_NLP):
+  The project aims to build a model to identify and classify different Arabic dialects from text data, ranges from using traditional ML Algorithms like LR and decision trees to more complex DL approaches such as LSTMs and   hybrid models combining CNNs with LSTMs, to improve accuracy in dialect classification.
+- [Arabic POS Detector](https://github.com/ahmedalkadi/Arabic_POS_Detector_NLP):
+  The objective of this project is to perform Part-of-Speech (POS) tagging on Arabic text using Recurrent Neural Networks (RNNs). Specifically, the Universal POS (UPOS) tags, a standardized set of POS tags that aims to      cover all languages, will be used for tagging. The dataset provided contains labeled data for Arabic text with Part-of-Speech (POS) tags in CoNLL-U format
+
+## Recommender Systems projects.
+- [Recommendation_Systems_IMDb_Movies_And_Users_Similarity](https://github.com/ahmedalkadi/Recommendation_Systems_IMDb_Movies_And_Users_Similarity):
+  The project involves two models; one for calculating movie similarity based on features. The other recommending movies to users by predicting their ratings. The first model uses cosine similarity, while the second         leverages user-rating history with matrix factorization.
+
+## Machine learning (Supervised and Unsupersived) Projects.
+## Random Search Algorithim projects.
+## Quantum Machine Learning Algorithims Projects.
+## Optimizers From Scratch Implementation Projects.
+## Models Architecture From Scratch Implementation Projects.
+## Webpages Scrapping.
 
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture40.png" alt="Project Insights" style="float: right; width: 350px; margin-left: 15px;">
-
-- It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
-- This project is in cooperation with the Military Technical College as well as some other engineering schools.
-- This project is sponsored by the Academy of Scientific Research & Technology and the Arab Organization for Industrialization with a budget of 11 million Egyptian pounds (~450K USD).
-- The prototype of the electric vehicle is planned to be finalized by June 2023.
-
-## The Battery Cooling System Design
-
-The battery cooling system should manage the thermal energy from the battery pack. The refrigeration cycle receives sensing signals (on/off) controlled by the temperature sensor held on the batteries.
-
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture52.png" alt="Cooling System Design" style="width: 100%;">
-
-The designed system comprises:
-- Refrigeration cycle working with R 134a refrigerant with adjustable expansion valves.
-- Heat exchangers to transfer the battery heat to the refrigeration cycle.
-- Circulation pump to circulate the coolant through the batteries.
-- Control valve to control the pressure drop from the battery pack.
-- Coolant reservoir.
-- Measuring instruments.
-- Temperature sensors for the circulating coolant (T1 and T2).
-- Temperature sensors for battery cells.
-- Pressure gauge.
-- Flow rate meter.
-
-## Cooling Passages General Arrangements
-
-
-- The battery bank is divided into 16 modules, each with 350 (14x25) cells (18650).
-- The outer dimensions of the module are 70cm x 25cm.
-- The outer dimensions of the battery pack are 203cm x 140cm.
-- The required pressure of the pump is estimated to be 270 pascal with a flow rate of around 5 liters/min.
-
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture53.png" alt="Cooling Passages" style="width: 100%;">
-
-## For Simplicity, We Will Only Simulate One Path of the Module to Assure Alignment Between the Analytical and Simulation Results
-
-
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture42.png" alt="Simulation Path" style="width: 100%;">
-
-## The Pack Arrangement
-
-
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture54.png" alt="Pack Arrangement" style="width: 100%;">
-
-## Simulation Using Ansys Fluent
-
-
-### Boundary conditions
-- **Inlet:**<br/>
-  Number of inlet areas: 6 for the side plate.<br/>
-  Mass flow: 0.05 kg/s with a temperature of 20°C.
-
-- **Outlet:**<br/>
-  Number of outlet areas: 6 for the side plate.<br/>
-  Pressure outlet, surrounding temperature: 25°C.
-  
-- **Heat source:**<br/>
-  Battery is subjected to heat generation at a rate of 5C-rate (57,812 W/m³).
-  
-- **Walls:**<br/>
-  All walls are adiabatic except for the upper wall of the battery, subjected to natural convection with a heat transfer coefficient of 5 W/m²K and a surrounding temperature of 25°C.
-
-## Results And Discussion
-
-
-### The Following Results Were Obtained When Applying a 5C-rate
------
-
-#### 1. Temperature Contour
-
-- The Whole Battery Module:<br/>
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture44.png" alt="Temperature Contour 1" style="width: 100%;"><br/>
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture47.png" alt="Temperature Contour 2" style="width: 100%;">
-
-- The Cooling Passages:<br/>
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture48.png" alt="Cooling Passages" style="width: 100%;">
-
-#### 2. Pressure Contour
-<br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture51.png" alt="Pressure Contour" style="width: 100%;">
