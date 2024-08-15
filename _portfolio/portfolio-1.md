@@ -16,8 +16,8 @@ Research Work Objectives:
 
 Project Insights:
 =====
-![image](../images/EV/Picture40.png){: .align-right width="350px"} 
-<br/><img src='../images/EV/Picture40.png'>{: .align-right width="350px"} 
+![image](/images/EV/Picture40.png){: .align-right width="350px"} 
+<br/><img src='/images/EV/Picture40.png'>{: .align-right width="350px"} 
 
 - It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
 - This project is in cooperation with the (Military technical college) as well as some other engineering schools.
@@ -30,7 +30,7 @@ The Bttery Cooling System Design
 =====
 
 The battery cooling system should manage the thermal energy from Battery pack. The refrigeration cycle receives sensing signal (on / off) controlled, from the temperature sensor hold on the batteries.
-![image](../images/EV/Picture52.png) <br/> <br/>
+![image](/images/EV/Picture52.png) <br/> <br/>
 
 The designed system comprises of:
 - Refrigeration cycle working with R 134a refrigerant with adjustable expansion valves.
