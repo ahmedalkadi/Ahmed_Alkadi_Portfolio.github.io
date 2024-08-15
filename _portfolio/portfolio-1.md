@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Research Work Objectives:
-=====
+
 
 1. Choose the suitable cooling method (bottom plate cooling, micro channels, immersed cooling or corrugated cooling tubes).
 2. Design mathematical representation of the battery heating.
@@ -14,7 +14,7 @@ collection: portfolio
 5. Study the effect of adding multiple cooling plates to the battery.
 
 ## Project Insights:
-=====
+
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture40.png" alt="Project Insights" style="float: right; width: 350px; margin-left: 15px;">
 
@@ -24,7 +24,6 @@ collection: portfolio
 - The prototype of the electric vehicle is planned to be finalized by June 2023.
 
 ## The Battery Cooling System Design
-=====
 
 The battery cooling system should manage the thermal energy from the battery pack. The refrigeration cycle receives sensing signals (on/off) controlled by the temperature sensor held on the batteries.
 
@@ -43,7 +42,7 @@ The designed system comprises:
 - Flow rate meter.
 
 ## Cooling Passages General Arrangements
-=====
+
 
 - The battery bank is divided into 16 modules, each with 350 (14x25) cells (18650).
 - The outer dimensions of the module are 70cm x 25cm.
@@ -53,17 +52,17 @@ The designed system comprises:
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture53.png" alt="Cooling Passages" style="width: 100%;">
 
 ## For Simplicity, We Will Only Simulate One Path of the Module to Assure Alignment Between the Analytical and Simulation Results
-=====
+
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture42.png" alt="Simulation Path" style="width: 100%;">
 
 ## The Pack Arrangement
-=====
+
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture54.png" alt="Pack Arrangement" style="width: 100%;">
 
 ## Simulation Using Ansys Fluent
-=====
+
 
 ### Boundary conditions
 - **Inlet:**<br/>
@@ -81,7 +80,7 @@ The designed system comprises:
   All walls are adiabatic except for the upper wall of the battery, subjected to natural convection with a heat transfer coefficient of 5 W/m²K and a surrounding temperature of 25°C.
 
 ## Results And Discussion
-=====
+
 
 ### The Following Results Were Obtained When Applying a 5C-rate
 -----
