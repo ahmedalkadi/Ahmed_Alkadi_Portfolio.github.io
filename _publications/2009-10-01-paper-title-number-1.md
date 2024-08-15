@@ -48,14 +48,13 @@ Sample liquid fraction contours results extracted from the research <br/> <br/>
 My roles in the research work 
 =====
 
-
 1- Investigate the of the nonconformity of the experimental and Numerical work, that were recommended to be a future work in the graduation project. <br/>
 2- Simulate different props arranges before executing the new configuration. <br/>
 3- Study time step independence, mesh independence and run the final computational model. <br/>
 4- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
 5- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
 
-![image](../images/research/Picture30.jpg)<br/><br/>
+![image](../images/research/Picture30.jpg) <br/><br/>
 ![image](../images/research/Picture31.jpg) <br/><br/>
 
 The new experimental work in the research
