@@ -55,8 +55,8 @@ My roles in the research work
 4- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
 5- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
 
-![image](../images/research/Picture30.jpg) {: .align-right width="300px"}
-![image](../images/research/Picture31.jpg) {: .align-right width="300px"}
+![image](../images/research/Picture30.jpg)<br/><br/>
+![image](../images/research/Picture31.jpg) <br/><br/>
 
 The new experimental work in the research
 =====
@@ -70,13 +70,15 @@ To solve this problem an adequate design for the props is required <br/>
 Instead of using one (8 mm ) tube, 3 (2 mm) props were inspected by Ansys to verify uniform temperature distribution across the section of the props and no wax gathering <br/> 
 ![image](../images/research/Picture33.png) <br/> 
 
-The new 3D printed model thermocouple holder ..... The new 3D printed thermocouple holder .... The old thermocouple prop <br/><br/>
+The new 3D printed model thermocouple holder <br/>
+The new 3D printed thermocouple holder <br/>
+The old thermocouple prop <br/><br/>
 
-![image](../images/research/Picture34.png) <br/> 
+![image](../images/research/Picture34.jpg) <br/> 
 The new test section configuration with thermocouples, the thermocouples’ wires are insulated to ensure accurate temperature measuring. <br/><br/>
 
-![image](../images/research/Picture35.png) <br/> 
 ![image](../images/research/Picture36.png) <br/> 
+![image](../images/research/Picture35.png) <br/> 
 
 
 
