@@ -17,7 +17,7 @@ Research Work Objectives:
 Project Insights:
 =====
 ![image](/images/EV/Picture40.png){: .align-right width="350px"} 
-<br/><img src='/images/EV/Picture40.png'>{: .align-right width="350px"} 
+<br/><img src='/images/EV/Picture40.png'>
 
 - It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
 - This project is in cooperation with the (Military technical college) as well as some other engineering schools.
