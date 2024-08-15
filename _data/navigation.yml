@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "AI Projects"
-    url: /portfolio/
+#  - title: "AI Projects"
+ #   url: /portfolio/
         
   - title: "Extracurricular Activities"
     url: /year-archive/
