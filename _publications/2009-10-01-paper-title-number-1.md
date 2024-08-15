@@ -9,7 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X230022
 citation: 'Mohamed A. Alnakeeb, Medhat M. Sorour, Ahmed O. Alkadi, Ahmed A. Gomaa, Ahmed M. ELghoul, Mostafa M. Zaytoun'
 ---
 
-Optimization Thermal storage unit for overnight domestic water heating [Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23002293?via%3Dihub)
+Optimization Thermal storage unit for overnight domestic water heating
 =====
 
 The usage of phase change materials (PCMs) is an effective method of storing thermal energy and to reduce fossil fuel usage. Latent heat storage systems, in this regard, have been applied for different industrial cases due to their unique characteristics: large latent heat, chemical stability, non-corrosiveness and constant temperature during phase change are some proper characteristics of these systems. <br/>
@@ -55,15 +55,15 @@ My roles in the research work
 4- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
 5- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
 
-![image](../images/research/Picture30.png) 
-![image](../images/research/Picture31.png) 
+![image](../images/research/Picture30.jpg) {: .align-right width="300px"}
+![image](../images/research/Picture31.jpg) {: .align-right width="300px"}
 
 The new experimental work in the research
 =====
 
-In the graduation project we have used a (8 mm) copper tube installing 3 thermocouples inside it to measure the temperature in different depth locations from the outer shell, due to the large diameter (8 mm) of the prop compared to the wax gap as well as wax is very viscous substance that helped to obstruct  the convection currents and that all contributed to keep the wax solid around the prop; consequently poor temperature measuring.
+In the previous version of the project we have used a (8 mm) copper tube installing 3 thermocouples inside it to measure the temperature in different depth locations from the outer shell, due to the large diameter (8 mm) of the prop compared to the wax gap as well as wax is very viscous substance that helped to obstruct  the convection currents and that all contributed to keep the wax solid around the prop; consequently poor temperature measuring.
 
-![image](../images/research/Picture32.png) <br/> 
+![image](../images/research/Picture32.jpg) <br/> 
 The red circle highlights the solid wax around the thermocouple tube the surrounding wax is liquid so the temperature is higher that the melting temperature while the props keeps indicating the melting temperature. <br/><br/>
 
 To solve this problem an adequate design for the props is required <br/> 
@@ -78,7 +78,6 @@ The new test section configuration with thermocouples, the thermocouples’ wire
 ![image](../images/research/Picture35.png) <br/> 
 ![image](../images/research/Picture36.png) <br/> 
 
-[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23002293?via%3Dihub)
 
 
 
