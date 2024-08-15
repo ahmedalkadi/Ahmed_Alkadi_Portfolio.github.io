@@ -16,8 +16,9 @@ Research Work Objectives:
 
 Project Insights:
 =====
+![image](../images/EV/Picture40.png){: .align-right width="350px"} 
+<br/><img src='../images/EV/Picture40.png'>{: .align-right width="350px"} 
 
-![image](../images/EV/Picture40.png){: .align-right width="350px"} <br/>
 - It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
 - This project is in cooperation with the (Military technical college) as well as some other engineering schools.
 - This project is sponsored by (The Academy of Scientific Research & technology) and the ( Arab organization for industrialization ) with budget 11 million Egyptian pounds around 450K US $.
