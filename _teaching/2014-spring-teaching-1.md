@@ -1,20 +1,118 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: 'LYCANS Aero Design team'
+# collection: teaching
+# type: "Undergraduate course"
+# permalink: /teaching/2014-spring-teaching-1
+# venue: "University 1, Department"
+date: 2022-08-01
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!--
+---
+title: 'LYCANS Aero Design team'
+date: 2022-08-01
+# permalink: /posts/2022/08/Lycans_Team_2022/
 
-Heading 1
+# tags:
+#   - cool posts
+#   - category1
+#   - category2
+---
+-->
+
+
+
+![Image](../images/lycans/Picture38.png){: .align-right width="800px"} <br/>
+
+LYCANS Aero Design team (CLICK FOR MORE DETAILS)
+======
+Lycans team is the only Egyptian and Arabian team that participate in the Advanced Class of the SAE Aero Design Competition that is held by the SAE every year in the USA. The objective of the Advanced Class (2023) is to design and build an RC aircraft capable of delivering different types of payloads to a certain location. This is done by developing a release mechanism; to release the Powered Autonomous Delivery Aircraft (PADA) and ensure that it lands in the target drop zone as well as carry as bottles of water as possible .
+
+The aim is to optimize the aircraft design to carry as much weight within the design rules and to release the (PADA) to land in the target points in the air field ; to obtain the highest possible score. Limitations on motor power and wing span, along with other competition restrictions make this grueling challenge a perfect playground for engineering students to utilize their knowledge and brain power in finding optimum solutions to the problems. In order to achieve our objective of developing an aircraft capable of obtaining the highest score, the team is divided into six sub-teams:
+- Wing Sub team
+- Tail and Stability Sub team
+- Fuselage Sub team
+- Propulsion Sub team
+- PADA Sub team
+- Electrical and AI Sub team
+
+![Image](../images/Picture3.png){: .align-middle width="800px"} <br/>
+PADA Release zone <br/>
+
+LYCANS Medals and Achievements during that time
+======
+![Image](../images/lycans/Picture7.png){: .align-right width="800px"} <br/>
+
+Season 2020 .......................................... Season 2021 ........................................ Season 2022 <br/>
+- 2020 6th place 
+- 2021 2nd place 
+- 2022 4th place  <br/>
+
+My journey with LYCANS
 ======
 
-Heading 2
-======
+Season 2019-2020 
+------
+My first year with LYCANS as a mechanical design and manufacturing member 
+Simulate the preliminary designed wing at different angles of attack to obtain accurately the lift generated and visualize the vortexes affecting the tail
+Simulate the designed wind with different Winglets to reduce the effect of the downwash on the wing.
+Fabricate the wing and the tail with control surfaces 
 
-Heading 3
-======
+![Image](../images/lycans/Picture8.png)<br/>
+Perform CFD analysis over the body of the plane<br/><br/>
+![Image](../images/lycans/Picture9.png)<br/>
+Some Manufacturing Snaps <br/><br/>
+![Image](../images/lycans/Picture10.png)<br/>
+Check the vortexes on the wing tip  <br/><br/>
+
+
+
+Season 2020-2021
+------
+Mechanical Designer and CFD analyst mentor.
+Make FEA for the Carbone fiber landing gear to ensure that the frame will withstand the impact load of a brutal landing 
+Make FEA for the fuselage (plane body) to optimize the weight VS stiffness using topology optimization method.
+I have made Videos to give the new comer a prompt push to Ansys and CFD world. 
+![Image](../images/lycans/Picture11.png)<br/>
+Check the landing gear<br/><br/>
+![Image](../images/lycans/Picture12.png) <br/>
+Optimize the fuselage<br/><br/>
+
+
+
+Season 2021-2022
+------
+Field team captain, Mechanical designer, troubleshooter and CFD analyst mentor.
+Simulate the designed wing at different angles and identify the angles at which the wing tends to stall while taking off and landing.
+Design vortex generator attached to the wing to diminish the separation at high angles of attach to ensure safe landing and taking off at harsh cross wind speed conditions to fit the in Californian weather at that time, that will help the (PADA) to get released at accurate timing and positioning.
+Coupling the CFD data from the wing to carry on FEA for the wing structure and the main spur and obtain the safety margins
+Design a special release mechanism to unmounts the (PADA) in the air 
+![Image](../images/lycans/Picture13.png) <br/>
+Study the effect of the Vortex Generators (VGs) <br/><br/>
+![Image](../images/lycans/Picture14.png) <br/>
+Plot the performace of the wing in all the cases of the Vortex Generators (VGs) <br/><br/>
+[Watch The Plane Takes off at 24 Angle of attack!](https://www.youtube.com/watch?v=6lks7HZXlo4&t=193s) <br/><br/>
+
+![Image](../images/lycans/Picture15.png) <br/>
+Study the stream lines of the air around the wing before and after the insertion of the Vortex Generators (VGs)  <br/><br/>
+
+![Image](../images/lycans/Picture16.png) <br/>
+
+![Image](../images/lycans/Picture18.png) <br/>
+Study the wing structure (plot the stress contours) <br/><br/>
+
+![Image](../images/lycans/Picture19.png) <br/>
+Study the wing structure (plot the displacement contours) <br/><br/>
+
+![Image](../images/lycans/Picture20.png) <br/>
+Ground Test (Season 2022)  <br/><br/>
+
+![Image](../images/lycans/Picture39.png) <br/>
+Lycans and California teams (Season 2022)  <br/><br/>
+
+![Image](../images/lycans/Picture22.jpg)<br/>
+Lycans team (Season 2022)  <br/><br/>
+
+[Watch The Lycans Journy 2022 ](https://www.youtube.com/watch?v=6lks7HZXlo4) <br/><br/>
+
