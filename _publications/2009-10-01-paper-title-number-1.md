@@ -9,7 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X230022
 citation: 'Mohamed A. Alnakeeb, Medhat M. Sorour, Ahmed O. Alkadi, Ahmed A. Gomaa, Ahmed M. ELghoul, Mostafa M. Zaytoun'
 ---
 
-Optimization Thermal storage unit for overnight domestic water heating
+Optimization Thermal storage unit for overnight domestic water heating [Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23002293?via%3Dihub)
 =====
 
 The usage of phase change materials (PCMs) is an effective method of storing thermal energy and to reduce fossil fuel usage. Latent heat storage systems, in this regard, have been applied for different industrial cases due to their unique characteristics: large latent heat, chemical stability, non-corrosiveness and constant temperature during phase change are some proper characteristics of these systems. <br/>
@@ -77,7 +77,7 @@ The new test section configuration with thermocouples, the thermocouples’ wire
 ![image](../images/research/Picture35.png) <br/> 
 ![image](../images/research/Picture36.png) <br/> 
 
-
+[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23002293?via%3Dihub)
 
 
 
