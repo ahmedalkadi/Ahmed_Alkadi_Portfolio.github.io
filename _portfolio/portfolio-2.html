@@ -4,110 +4,77 @@ excerpt: "The present research aims to design the managing cooling system for th
 collection: portfolio 
 ---
 
-Research Work Objectives:
-=====
+<h2>Research Work Objectives:</h2>
+<ul>
+  <li>Choose the suitable cooling method (bottom plate cooling, microchannels, immersed cooling, or corrugated cooling tubes).</li>
+  <li>Design a mathematical representation of battery heating.</li>
+  <li>Build the computational domain in ANSYS software.</li>
+  <li>Optimize the bottom plate internal grooves to ensure sufficient cooling and uniform battery thermal distribution.</li>
+  <li>Study the effect of adding multiple cooling plates to the battery.</li>
+</ul>
 
+<h2>Project Insights:</h2>
+<img src="/images/EV/Picture40.png" style="float: right; width: 350px;" alt="Project Insights Image">
+<p>
+  It is a national project to have the first steps in manufacturing a locally-made Electric vehicle. 
+  This project is in cooperation with the Military Technical College and some other engineering schools. 
+  Sponsored by The Academy of Scientific Research & Technology and the Arab Organization for Industrialization with a budget of 11 million Egyptian pounds (approximately $450K US). 
+  The prototype of the electric vehicle is planned to be finalized by June 2023.
+</p>
 
-1- choose the suitable cooling method (bottom plate cooling, micro channels, immersed cooling or corrugated cooling tubes ) <br/>
-2- Design mathematical representation of the battery heating .<br/>
-3- build the computational domain in ANSYS software.<br/>
-4- optimize the bottom plate internal groves to ensure sufficient cooling and uniform battery thermal distribution. <br/>
-5- study the effect of adding multi cooling plates to the battery. <br/>
+<h2>The Battery Cooling System Design:</h2>
+<p>
+  The battery cooling system should manage the thermal energy from the battery pack. The refrigeration cycle receives an on/off signal from the temperature sensor on the batteries.
+</p>
+<img src="/images/EV/Picture52.png" style="display: block; margin: 20px 0;" alt="Battery Cooling System Design Image">
 
+<p>The designed system comprises:</p>
+<ul>
+  <li>Refrigeration cycle working with R 134a refrigerant with adjustable expansion valves.</li>
+  <li>Heat exchangers to transfer battery heat to the refrigeration cycle.</li>
+  <li>Circulate pump to circulate the coolant through the batteries.</li>
+  <li>Control valve to control the pressure drop from the battery pack.</li>
+  <li>Coolant reservoir.</li>
+  <li>Measuring instruments.</li>
+  <li>Temperature sensors for the circulating coolant (T1 and T2).</li>
+  <li>Temperature sensors for battery cells.</li>
+  <li>Pressure gauge.</li>
+  <li>Flow rate meter.</li>
+</ul>
 
-Project Insights:
-=====
-![image](/images/EV/Picture40.png){: .align-right width="350px"} 
-<br/><img src='/images/EV/Picture40.png'>
+<h2>Cooling Passages General Arrangements:</h2>
+<p>
+  The battery bank is divided into 16 modules, each with 350 (14x25) cells (18650).
+  The outer dimension of the module is 70cm x 25cm.
+  The outer dimension of the battery pack is 203cm x 140cm.
+  The required pump pressure is estimated to be 270 pascals with a flow rate around 5 liters/min.
+</p>
+<img src="/images/EV/Picture53.png" style="display: block; margin: 20px 0;" alt="Cooling Passages Image">
 
-- It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
-- This project is in cooperation with the (Military technical college) as well as some other engineering schools.
-- This project is sponsored by (The Academy of Scientific Research & technology) and the ( Arab organization for industrialization ) with budget 11 million Egyptian pounds around 450K US $.
-- The prototype of the electric vehicle is planned to get finalized by June 2023.
+<h2>For Simplicity, We Will Only Simulate One Path of the Module to Assure Alignment Between the Analytical and Simulation Results:</h2>
+<img src="/images/EV/Picture42.png" style="display: block; margin: 20px 0;" alt="Simulation Path Image">
 
+<h2>The Pack Arrangement:</h2>
+<img src="/images/EV/Picture54.png" style="display: block; margin: 20px 0;" alt="Pack Arrangement Image">
 
+<h2>Simulation Using ANSYS Fluent:</h2>
+<h3>Boundary Conditions:</h3>
+<ul>
+  <li><strong>Inlet:</strong> Number of inlet areas is 6 for the side plate. Mass flow is 0.05 kg/s with a temperature of 20°C.</li>
+  <li><strong>Outlet:</strong> Number of outlet areas is 6 for the side plate. Pressure outlet, surrounding temperature of 25°C.</li>
+  <li><strong>Heat Source:</strong> The battery is subjected to heat generation at a rate of 5 C-rate (57812 W/m³).</li>
+  <li><strong>Walls:</strong> All the walls are adiabatic except for the upper wall of the battery, subjected to natural convection with a heat transfer coefficient of 5 W/m²K and a surrounding temperature of 25°C.</li>
+</ul>
 
-The Bttery Cooling System Design 
-=====
+<h2>Results and Discussion:</h2>
+<h3>The Following Results Were Taken When Applying a 5C Rate:</h3>
+<h4>1. Temperature Contour</h4>
+<p><strong>The Whole Battery Module:</strong></p>
+<img src="/images/EV/Picture44.png" style="display: block; margin: 20px 0;" alt="Temperature Contour Image">
+<img src="/images/EV/Picture47.png" style="display: block; margin: 20px 0;" alt="Temperature Contour Image">
 
-The battery cooling system should manage the thermal energy from Battery pack. The refrigeration cycle receives sensing signal (on / off) controlled, from the temperature sensor hold on the batteries.
-![image](/images/EV/Picture52.png) <br/> <br/>
+<p><strong>The Cooling Passages:</strong></p>
+<img src="/images/EV/Picture48.png" style="display: block; margin: 20px 0;" alt="Cooling Passages Image">
 
-The designed system comprises of:
-- Refrigeration cycle working with R 134a refrigerant with adjustable expansion valves.
-- Heat exchangers for transfer the battery heat to the refrigeration cycle 
-- Circulate pump to circulate the coolant through the batteries 
-- Control valve to control the pressure drop from the battery pack.
-- Coolant reservoir.
-- Measuring instrument
-- Temperature sensors for the circulating coolant (T1 and T2).
-- Temperature sensors for battery cells.
-- Pressure gauge.
-- Flow rate meter
-
-Cooling passages general arrangements
-=====
-
-- The battery bank is divided into 16 modules each with 350 (14*25) cells (18650) 
-- The outer dimension of the module is 70cm * 25cm 
-- The outer dimension of the battery pack is 203cm * 140cm
-- The required pressure of the pump is estimated to be 270 pascal with flow rate around 5 lit/min
-
-![image](../images/EV/Picture53.png) <br/> <br/>
-
-
-For The Simplicity Issues We Will Only Simulate One Path of the Module to Assure Alignment Between the Analytical and Simulation Result  
-=====
-![image](../images/EV/Picture42.png) <br/> <br/>
-
-The Pack Arrangement 
------
-
-![image](../images/EV/Picture54.png) <br/> <br/>
-
-
-Simulation Using Ansys Fluent
-=====
-
-Boundary conditions 
-- Inlet<br/>
-  Number of inlet areas are 6 for the side plate 
-  Mass flow is 0.05 kg/s with temperature of 20 ℃
-
-- Outlet <br/>
-  Number of inlet areas are 6 for the side plate 
-  Pressure outlet, surrounding temperature of 25 ℃
-  
-- Heat source<br/>
-  Battery is subjected to heat generation with the rate of 5 c-rate (57812)W/m3
-  
-- Walls <br/>
-  All the walls are adiabatic except for the upper wall of the battery subjected to natural conviction with heat transfer coefficient of (5 W/m2K) and surrounding temperature of 25 ℃.
-
-
-Results And Discussion
-=====
-
-The Following Results Are taken When Applying (5C) rate
------
-
-1- Temperature Contour <br/>
-
-- The Whole Battery Module <br/>
-![image](../images/EV/Picture44.png) <br/> <br/>
-![image](../images/EV/Picture47.png) <br/> <br/>
-
-
-- The Cooling Passages  <br/>
-![image](../images/EV/Picture48.png) <br/> <br/>
-
-
-
-2- Pressure Contour <br/>
-![image](../images/EV/Picture51.png) <br/> <br/>
-
-
-
-
-
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+<h4>2. Pressure Contour</h4>
+<img src="/images/EV/Picture51.png" style="display: block; margin: 20px 0;" alt="Pressure Contour Image">
