@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/ahmedalkadi.jpg"
+  avatar           : "ahmedalkadi.jpg"
   name             : "Ahmed Alkadi"
   pronouns         : # example: "she/her"  
   bio              : "Passionate Mechanical Engineer, with strong background in Machine learning Engineering."
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ahmedalkadi"
+  github           : "/ahmedalkadi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 'https://www.linkedin.com/in/ahmed-alkadi-095052152/'
+  linkedin         : '/ahmed-alkadi-095052152/'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
