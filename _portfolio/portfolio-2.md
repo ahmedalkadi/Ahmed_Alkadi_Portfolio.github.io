@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Projects" <br/>
+title: "Machine Learning Projects <br/>" 
 excerpt: "The following pages highlights some of the seleted projects i have may using AI, You are totally Welcome to visit my [GitHub](https://github.com/ahmedalkadi) Account to review and clone the code "
 collection: portfolio 
 ---
