@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ahmedalkadi.jpg"
+  avatar           : "Ahmed_Alkadi.jpg"
   name             : "Ahmed Alkadi"
   pronouns         : # example: "she/her"  
   bio              : "Passionate Mechanical Engineer, with strong background in Machine learning Engineering."
