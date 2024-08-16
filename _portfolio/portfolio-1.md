@@ -85,14 +85,14 @@ The designed system comprises:
 ### The Following Results Were Obtained When Applying a 5C-rate
 -----
 
-#### 1. Temperature Contour
+### 1. Temperature Contour
 
 - Batteries And Cooling Passages Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture44.png" alt="Temperature Contour 1" style="width: 100%;"><br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture47.png" alt="Temperature Contour 2" style="width: 100%;">
 
-- The Cooling Passages Contours:<br/>
+- The Cooling Passages temperature Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture48.png" alt="Cooling Passages" style="width: 100%;">
 
-#### 2. The Cooling PassagesPressure Contour:<br/>
+### 2. The Cooling Passages Pressure Contour:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture51.png" alt="Pressure Contour" style="width: 100%;">
