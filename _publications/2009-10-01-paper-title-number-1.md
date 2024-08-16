@@ -9,6 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X230022
 citation: 'Mohamed A. Alnakeeb, Medhat M. Sorour, Ahmed O. Alkadi, Ahmed A. Gomaa, Ahmed M. ELghoul, Mostafa M. Zaytoun'
 ---
 
+
 Optimization Thermal storage unit for overnight domestic water heating
 =====
 
