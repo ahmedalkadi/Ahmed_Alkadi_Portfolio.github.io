@@ -10,8 +10,8 @@ collection: portfolio
 1. Choose the suitable cooling method (bottom plate cooling, micro channels, immersed cooling or corrugated cooling tubes).
 2. Design mathematical representation of the battery heating.
 3. Build the computational domain in ANSYS software.
-4. Optimize the bottom plate internal grooves to ensure sufficient cooling and uniform battery thermal distribution.
-5. Study the effect of adding multiple cooling plates to the battery.
+4. Optimize the cooling method to ensure sufficient cooling and uniform battery thermal distribution.
+5. Study the effect of changing the cooling fluid mass flow rate, changing the cooling fluid pathes and dimentions.
 
 ## Project Insights:
 
@@ -21,7 +21,7 @@ collection: portfolio
 - It is a national project to have the first steps in manufacturing a locally-made Electric vehicle.
 - This project is in cooperation with the Military Technical College as well as some other engineering schools.
 - This project is sponsored by the Academy of Scientific Research & Technology and the Arab Organization for Industrialization with a budget of 11 million Egyptian pounds (~450K USD).
-- The prototype of the electric vehicle is planned to be finalized by June 2023.
+
 
 ## The Battery Cooling System Design
 
@@ -87,12 +87,12 @@ The designed system comprises:
 
 #### 1. Temperature Contour
 
-- The Whole Battery Module:<br/>
+- Batteries And Cooling Passages Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture44.png" alt="Temperature Contour 1" style="width: 100%;"><br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture47.png" alt="Temperature Contour 2" style="width: 100%;">
 
-- The Cooling Passages:<br/>
+- The Cooling Passages Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture48.png" alt="Cooling Passages" style="width: 100%;">
 
-#### 2. Pressure Contour
+#### 2. The Cooling PassagesPressure Contour:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture51.png" alt="Pressure Contour" style="width: 100%;">
