@@ -1,5 +1,5 @@
 ---
-title: "The influence of elliptic aspect ratio and inclination angle on the melting characteristic of phase change material in concentric cylindrical enclosure **Click For More Details**"
+title: "The influence of elliptic aspect ratio and inclination angle on the melting characteristic of phase change material in concentric cylindrical enclosure *-Click For More Details-*"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-01
