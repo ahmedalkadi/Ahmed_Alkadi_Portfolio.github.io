@@ -1,11 +1,10 @@
 ---
 title: "Machine Learning Projects <br/>" 
-excerpt: "The following pages highlights some of the seleted projects i have may using AI, You are totally Welcome to visit my [GitHub](https://github.com/ahmedalkadi) Account to review and clone the code "
+excerpt: "The following page highlights some selected projects I have created using AI. You are welcome to visit my [GitHub](https://github.com/ahmedalkadi) Account to review and clone the code."
 collection: portfolio 
 ---
 
-# In the following pages some selected projects utilizing the AI in :
-
+# The following page showcase selected projects utilizing AI in :
 1. Computer Vision.
 2. Deep fake.
 3. Natural language Models (NLP) Arabic and English.
