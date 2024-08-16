@@ -4,14 +4,16 @@ excerpt: "The following page highlights some selected projects I have created us
 collection: portfolio 
 ---
 
-# The following page showcase selected projects utilizing AI in :
+The following page showcase selected projects utilizing AI in :
+=====
 1. Computer Vision.
 2. Deep fake.
 3. Natural language Models (NLP) Arabic and English.
 4. Recommender Systems.
 5. Machine learning (Supervised and Unsupersived).
 
-## Some other Related topics:
+Some other Related topics:
+-----
 1. Random Search Algorithim.
 2. Quantum Machine Learning Algorithims.
 3. Optimizers From Scratch Implementation.
@@ -52,11 +54,9 @@ collection: portfolio
   Ant Colony Optimization (ACO) is a metaheuristic algorithm inspired by the foraging behavior of ants. Introduced by Marco Dorigo in the early 1990s, ACO has become a popular method for solving combinatorial optimization   problems.ACO simulates the behavior of ants searching for food to find optimal solutions in a given problem space. The algorithm is particularly effective in scenarios where finding the best path or solution involves      navigating through a large number of possible combinations.
 - [Genetic_Algorithm_For_TSP_and_Knapsack](https://github.com/ahmedalkadi/Genetic_Algorithm_For_TSP_and_Knapsack):
   A Genetic Algorithm (GA) is an optimization technique inspired by natural selection. It starts with a population of possible solutions, evaluates their fitness, and selects the best individuals for reproduction.           Offspring are created through crossover and mutation, introducing variation. The process repeats over generations, evolving better solutions until an optimal or satisfactory solution is found.
-  This algorithim is used to solve following Problems.
-  Traveling Salesman Problem (TSP):
-  Problem Description The Traveling Salesman Problem (TSP) is a well-known combinatorial optimization problem. The objective is to find the shortest possible route that visits each city exactly once and returns to the       origin city. Given a list of cities and the distances between each pair of cities, the task is to determine the optimal order in which to visit the cities to minimize the total travel distance.
-  Knapsack Problem:
-  Problem Description The Knapsack Problem is another classic optimization problem. Given a set of items, each with a weight and a value, the objective is to determine the number of each item to include in a collection so   that the total weight is less than or equal to a given limit and the total value is as large as possible.
+  This algorithim is used to solve following Problems:
+  Traveling Salesman Problem (TSP), is a well-known combinatorial optimization problem. The objective is to find the shortest possible route that visits each city exactly once and returns to the origin city. Given a         list of cities and the distances between each pair of cities, the task is to determine the optimal order in which to visit the cities to minimize the total travel distance.
+  Knapsack Problem, is another classic optimization problem. Given a set of items, each with a weight and a value, the objective is to determine the number of each item to include in a collection so that the total           weight is less than or equal to a given limit and the total value is as large as possible.
 
 ## Quantum Machine Learning Algorithims Projects.
 - [Quantum Machine Learning: Implementing the K-Means Algorithm](https://github.com/ahmedalkadi/Kmeans_Implementaion_Quantum_Machine_Learning):
