@@ -10,7 +10,7 @@ redirect_from:
 
 ![Image](./images/airplane.jpg){: .align-right width="300px"}
 
-👋 Hi, I'm Ahmed, a Mechanical Engineering graduate from Alexandria University, Egypt. I graduated with excellence, ranking in the top 2% of my class, and have profound experience in mechanical engineering. I've worked as a Mechanical Design Engineer in the field of water solutions and desalination, and I am currently a Teacher Assistant in the department of the engineering Mathematics and Physics, Alexandria university, Egypt. 🎓👨‍🏫
+👋 Hi, I'm Ahmed, a Mechanical Engineering graduate from Alexandria University, Egypt. I graduated with excellence, ranking in the top 2% of my class, and have profound experience in mechanical engineering. I've worked as a Mechanical Design Engineer in the field of water solutions and desalination, and I am currently a Teacher Assistant in the department of the Engineering Mathematics and Physics, Alexandria University, Egypt. 🎓👨‍🏫
 
 I’m passionate about Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), renewable energy, and machine learning. 🌱🔧
 
