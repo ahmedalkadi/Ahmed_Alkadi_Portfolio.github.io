@@ -30,9 +30,9 @@ The Test Rig
 The Research Overview
 =====
 Research objectives:<br/>
-1- Investigate and identify major parameters that effect the thermal energy transfer from the water to the storage medium.<br/>
-2- Design and optimize a thermal storage system for the domestic use capable of supplying hot water, absorbing the solar energy at daytime.<br/>
-3- Select the suitable storage medium to fit the design conditions. <br/>
+1. Investigate and identify major parameters that effect the thermal energy transfer from the water to the storage medium.<br/>
+2. Design and optimize a thermal storage system for the domestic use capable of supplying hot water, absorbing the solar energy at daytime.<br/>
+3. Select the suitable storage medium to fit the design conditions. <br/>
 
 Research focuses on the effects of :
 - The aspect ratio of the inner elliptical tube. 
@@ -49,12 +49,12 @@ Sample liquid fraction contours results extracted from the research <br/> <br/>
 
 My roles in the research work 
 =====
-1- Design and build the test section.<br/>
-2- Investigate the of the nonconformity of the experimental and Numerical work. <br/>
-3- Simulate different props arranges before executing the new configuration. <br/>
-4- Study time step independence, mesh independence and run the final computational model. <br/>
-5- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
-6- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
+1. Design and build the test section.<br/>
+2. Investigate the of the nonconformity of the experimental and Numerical work. <br/>
+3. Simulate different props arranges before executing the new configuration. <br/>
+4. Study time step independence, mesh independence and run the final computational model. <br/>
+5. Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
+6. Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
 
 ![image](../images/research/Picture30.jpg) <br/><br/>
 ![image](../images/research/Picture31.jpg) <br/><br/>
