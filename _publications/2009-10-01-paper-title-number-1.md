@@ -29,10 +29,10 @@ The Test Rig
 
 The Research Overview
 =====
-Research objectives:
-1- Investigate and identify major parameters that effect the thermal energy transfer from the water to the storage medium.
-2- Design and optimize a thermal storage system for the domestic use capable of supplying hot water, absorbing the solar energy at daytime.
-3- Select the suitable storage medium to fit the design conditions. 
+Research objectives:<br/>
+1- Investigate and identify major parameters that effect the thermal energy transfer from the water to the storage medium.<br/>
+2- Design and optimize a thermal storage system for the domestic use capable of supplying hot water, absorbing the solar energy at daytime.<br/>
+3- Select the suitable storage medium to fit the design conditions. <br/>
 
 Research focuses on the effects of :
 - The aspect ratio of the inner elliptical tube. 
@@ -49,12 +49,12 @@ Sample liquid fraction contours results extracted from the research <br/> <br/>
 
 My roles in the research work 
 =====
-
-1- Investigate the of the nonconformity of the experimental and Numerical work, that were recommended to be a future work in the graduation project. <br/>
-2- Simulate different props arranges before executing the new configuration. <br/>
-3- Study time step independence, mesh independence and run the final computational model. <br/>
-4- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
-5- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
+1- Design and build the test section.<br/>
+2- Investigate the of the nonconformity of the experimental and Numerical work. <br/>
+3- Simulate different props arranges before executing the new configuration. <br/>
+4- Study time step independence, mesh independence and run the final computational model. <br/>
+5- Conduct the experimental trials, present the data in graph, make comparisons and comment on them. <br/>
+6- Contribute in the paper writing in the sections of: Experimental set up, experimental results and boundary conditions and validation.  <br/>
 
 ![image](../images/research/Picture30.jpg) <br/><br/>
 ![image](../images/research/Picture31.jpg) <br/><br/>
@@ -68,7 +68,7 @@ In the previous version of the project we have used a (8 mm) copper tube install
 The red circle highlights the solid wax around the thermocouple tube the surrounding wax is liquid so the temperature is higher that the melting temperature while the props keeps indicating the melting temperature. <br/><br/>
 
 To solve this problem an adequate design for the props is required <br/> 
-Instead of using one (8 mm ) tube, 3 (2 mm) props were inspected by Ansys to verify uniform temperature distribution across the section of the props and no wax gathering <br/> 
+Instead of using one (8 mm) tube,we have used 3X(2 mm) props after inspecting the new design by Ansys to verify uniform temperature distribution across the section of the props and no wax gathering <br/> 
 ![image](../images/research/Picture33.png) <br/> 
 
 The new 3D printed model thermocouple holder <br/>
