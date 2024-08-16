@@ -79,13 +79,13 @@ The designed system comprises:
 - **Walls:**<br/>
   All walls are adiabatic except for the upper wall of the battery, subjected to natural convection with a heat transfer coefficient of 5 W/m²K and a surrounding temperature of 25°C.
 
-## Results And Discussion
+## Results And Discussion:
 
 
 ### The Following Results Were Obtained When Applying a 5C-rate
 -----
 
-### 1. Temperature Contour
+### 1. Temperature Contours
 
 - Batteries And Cooling Passages Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture44.png" alt="Temperature Contour 1" style="width: 100%;"><br/>
@@ -94,5 +94,5 @@ The designed system comprises:
 - The Cooling Passages temperature Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture48.png" alt="Cooling Passages" style="width: 100%;">
 
-### 2. The Cooling Passages Pressure Contour:<br/>
+### 2. The Cooling Passages Pressure Contours:<br/>
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture51.png" alt="Pressure Contour" style="width: 100%;">
