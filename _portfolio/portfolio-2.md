@@ -4,7 +4,7 @@ excerpt: "The following page highlights some selected projects I have created us
 collection: portfolio 
 ---
 
-The following page showcase selected projects utilizing AI in :
+The following page show selected projects utilizing AI in :
 =====
 1. Computer Vision.
 2. Deep fake.
@@ -18,10 +18,10 @@ Some other Related topics:
 2. Quantum Machine Learning Algorithims.
 3. Optimizers From Scratch Implementation.
 4. Models Architecture From Scratch Implementation.
-5. Webpages Scrapping. 
+5. Webpages Scrapping. <br/><br/>
 
 
-## GitHub Projects:
+# GitHub Projects:
 
 ## Computer Vision Projects:
 - [Visual And Textual Product Similarity Recommendation](https://github.com/ahmedalkadi/Visual_And_Textual_Products_Similarity):
