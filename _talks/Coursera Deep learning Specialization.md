@@ -10,6 +10,9 @@ permalink: /talks/Coursera Deep learning Specialization
 ### The Certificate ["Deep Learning Specialization"](https://www.coursera.org/account/accomplishments/specialization/BXD2553Y31SS)
 The **Deep Learning Specialization** from Coursera, led by Andrew Ng and offered through deeplearning.ai, is a comprehensive program that delves into the foundations and advanced techniques of deep learning. This specialization is tailored for individuals looking to gain expertise in building and training deep neural networks, applying these networks to real-world problems, and understanding the nuances of modern deep learning technologies.
 
+
+![Coursera Certificate](images/coursera_2.png)
+
 ## Core Learning Outcomes
 
 The specialization is divided into five key courses, each focusing on different aspects of deep learning:
