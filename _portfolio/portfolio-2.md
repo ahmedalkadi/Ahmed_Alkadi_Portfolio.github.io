@@ -77,6 +77,10 @@ Some other Related topics:
 - [MobileNet-V1-Model Implementation](https://github.com/ahmedalkadi/MobileNet-V1-Model-Implementation_From_Scratch):
   This project implements the MobileNetV1 model using PyTorch, a lightweight convolutional neural network architecture designed for mobile and embedded devices. Then to train it on the CIFAR-10 dataset, which consists of    60,000 images across 10 classes.
 
+## Implementing Naive Bayes from Scratch for IMDB Fake / Real Review Classification
+- [Implementing_Naive_Bayes_From_Scratch](https://github.com/ahmedalkadi/Implementing_Naive_Bayes_From_Scratch):
+  Bayes Theorem is named after the English mathematician Thomas Bayes, who made significant contributions to decision theory, a field of mathematics that involves probabilities. Bayes Theorem is widely used in machine       learning as a simple and effective way to predict classes with precision and accuracy. The Bayesian method of calculating conditional probabilities is particularly useful in classification tasks. This project focuses on   implementing the Naive Bayes classification algorithm from scratch to classify IMDB reviews as fake or real. Specifically, we will implement the Multinomial Naive Bayes classifier, which is well-suited for text            classification tasks where the features are word frequencies or counts.
+
 ## Data Visualization and Webpages Scrapping.
 - [Olympics-History-Dashboard_data_visualisation](https://github.com/ahmedalkadi/Olympics-History-Dashboard_data_visualisation):
   This project aims to explore the history of the Olympics and provide dynamic insights about the games and sports over time through an interactive dashboard. Leveraging Plotly, the dashboard offers visual representations   of Olympic data, including trends, medal counts, and athlete demographics. Additionally, the project utilizes machine learning models to make predictions for individuals seeking to participate in certain games based on    their body features, using the Olympics dataset.
