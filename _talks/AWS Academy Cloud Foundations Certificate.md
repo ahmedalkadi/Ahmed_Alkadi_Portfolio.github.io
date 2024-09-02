@@ -7,7 +7,7 @@ permalink: /talks/AWS Academy Cloud Foundations Certificate
 ---
 
 # AWS Academy Cloud Foundations Certificate
-### The badge ["AWS Academy Cloud Foundations Badge"](https://www.credly.com/badges/3b0260ee-0f8f-440b-9c8c-864dfa081a6f/linked_in_profile)
+### The badge ["AWS Academy Cloud Foundations"](https://www.credly.com/badges/3b0260ee-0f8f-440b-9c8c-864dfa081a6f/linked_in_profile)
 **AWS Academy Cloud Foundations** program, is a foundational course designed to provide a comprehensive understanding of cloud computing concepts and Amazon Web Services (AWS) infrastructure. This certification is ideal for individuals new to cloud computing, and it helped me build a solid base of knowledge in this rapidly growing field.
 
 ![AWS Badge](https://github.com/ahmedalkadi/Ahmed_Alkadi_Portfolio.github.io/blob/master/images/aws-academy.png?raw=true)
