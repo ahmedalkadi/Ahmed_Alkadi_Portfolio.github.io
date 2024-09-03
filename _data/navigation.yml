@@ -8,15 +8,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research and AI Projects"
+    url: /portfolio/
+
   - title: "Courses and Certificates"
     url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "Research and AI Projects"
-    url: /portfolio/
-        
+     
   - title: "Extracurricular Activities"
     url: /year-archive/
     
