@@ -2,14 +2,16 @@
 title: "Coursera TensorFlow Specialization by DeepLearning.AI"
 collection: Courses and Certificate
 permalink: /talks/Coursera TensorFlow Specialization
+
+
 ---
 
 # TensorFlow Specialization by DeepLearning.AI
 ### The Certificate ["TensorFlow Specialization"](https://www.coursera.org/account/accomplishments/specialization/2BCDQVV0YB8E)
-
-The **TensorFlow Specialization** from Coursera, offered through DeepLearning.AI, is a comprehensive program that focuses on building advanced deep learning models using TensorFlow. This specialization equips individuals with the skills to develop custom models, train distributed systems, implement cutting-edge computer vision techniques, and apply generative deep learning models.
+**TensorFlow Specialization** from Coursera, offered through DeepLearning.AI, is a comprehensive program that focuses on building advanced deep learning models using TensorFlow. This specialization equips individuals with the skills to develop custom models, train distributed systems, implement cutting-edge computer vision techniques, and apply generative deep learning models.
 
 ![Coursera Certificate](https://github.com/ahmedalkadi/Ahmed_Alkadi_Portfolio.github.io/blob/master/images/coursera_3.png?raw=true)
+
 
 ## Core Learning Outcomes
 
