@@ -4,7 +4,7 @@ excerpt: "The following page highlights some selected projects I have created us
 collection: portfolio 
 ---
 
-The following page show selected projects utilizing AI in :
+The following page shows selected projects utilizing AI in :
 =====
 1. Computer Vision.
 2. Deep fake.
