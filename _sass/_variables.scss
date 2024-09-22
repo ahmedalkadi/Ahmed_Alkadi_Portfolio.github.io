@@ -62,7 +62,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #FFF;
-$background-color           : #linear-gradient(to right, 9ca7cc, d9dae0);
+$background-color           : linear-gradient(#e66465, #9198e5);
 $code-background-color      : #FFF;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
