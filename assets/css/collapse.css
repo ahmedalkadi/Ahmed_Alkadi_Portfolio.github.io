@@ -15,3 +15,6 @@
     display: none;
     padding : 5px;
 }
+body {
+    background-color: #185387 !important; /* or any other color you'd like */
+}
