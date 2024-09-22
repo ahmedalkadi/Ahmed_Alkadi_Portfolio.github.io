@@ -61,9 +61,12 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : linear-gradient(#e66465, #9198e5);
-$background-color           : linear-gradient(#e66465, #9198e5);
-$code-background-color      : linear-gradient(#e66465, #9198e5);
+
+$a                          : #e66465;
+$b                          : #9198e5;
+$body-color                 : linear-gradient($a, $b);
+$background-color           : linear-gradient($a, $b);
+$code-background-color      : linear-gradient($a, $b);
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
