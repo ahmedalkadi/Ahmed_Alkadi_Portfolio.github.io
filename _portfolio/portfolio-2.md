@@ -10,7 +10,8 @@ The following page shows selected projects utilizing AI in :
 2. Deep fake.
 3. Natural language Models (NLP) Arabic and English.
 4. Recommender Systems.
-5. Machine learning (Supervised and Unsupersived).
+5. Large language models (LLMs).
+6. Machine learning (Supervised and Unsupersived).
 
 Some other Related topics:
 -----
@@ -43,7 +44,13 @@ Some other Related topics:
 - [Recommendation_Systems_IMDb_Movies_And_Users_Similarity](https://github.com/ahmedalkadi/Recommendation_Systems_IMDb_Movies_And_Users_Similarity):
   The project involves two models; one for calculating movie similarity based on features. The other recommending movies to users by predicting their ratings. The first model uses cosine similarity, while the second         leverages user-rating history with matrix factorization.
 
+## LLMs projects:
+- [SpaceX RAG system](https://github.com/ahmedalkadi/SpaceX_RAG_system):
+  The SpaceX Retrieval-Augmented Generation (RAG) system project focuses on building a robust information retrieval and question-answering system using data about SpaceX. The system combines retrieval-augmented              generation techniques with a language model to provide accurate and contextually relevant answers based on SpaceX documents, PDFs, and videos. In this project, I used RAG to pull in relevant information from a curated     dataset before generating responses, which enhances the model's ability to provide accurate answers rooted in specific SpaceX-related knowledge. I implemented an embedding-based search to enable the model to identify      the most relevant information for each query, drawing on resources beyond the training data. This setup allows for more precise and nuanced responses by augmenting generative outputs with fact-based retrieval.
+  
 ## Machine learning (Supervised and Unsupersived) Projects.
+- [Devices price classification](https://github.com/ahmedalkadi/devices-price-classification):
+  The Devices Price Classification project was designed to predict price categories for electronic devices based on features such as camera quality, screen size, and weight. The project combined machine learning with API    development to create a user-friendly prediction system. I used Python to build a machine learning model that classifies devices into different price categories based on input features. To make the model accessible, I     developed a RESTful API with Spring Boot, which included endpoints for device operations such as GET and POST requests. This allowed users to retrieve device data from an H2 database, add new records, and get price        predictions in real time. For the user interface, I created a Flask application with HTML pages, providing an easy-to-use interface where users could enter device IDs and trigger predictions. The Flask app integrated      with the API, passing device data to the prediction model and displaying the results.
 - [Face_Pose_Detector_Machine_Learing](https://github.com/ahmedalkadi/Face_Pose_Detector_Machine_Learing):
   A face pose estimator is a computer vision technique that determines the orientation and position of a human head relative to a camera In this Repo you can detect the pose angles of a picture , web cam video or imported   video In this Repo an augmentation was carried out to help inhance the performance of the roll angle.
 - [Bank_Account_Business_Analysis_Unsupervised_Machine_Learning](https://github.com/ahmedalkadi/Bank_Account_Business_Analysis_Unsupervised_Machine_Learning):
