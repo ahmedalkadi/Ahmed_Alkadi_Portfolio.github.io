@@ -27,8 +27,12 @@ Some other Related topics:
 ## Computer Vision Projects:
 - [Visual And Textual Product Similarity Recommendation](https://github.com/ahmedalkadi/Visual_And_Textual_Products_Similarity):
   This project recommends products based on their textual and visual similarity using cosine similarity. Visual features are extracted with ResNet-50, textual features with TinyBERT-6L, and images are preprocessed by        removing backgrounds using a UNet model with MobileNetV2 encoder. Features are combined into vectors, stored in a vector database, and used to find and visualize the top similar products.
-   This model was used in a fashion recommendation project supervised by Twenty Too © Fashion company. For more details, please follow the link for video demonstration [Fashion recommendation project]          
-   (https://drive.google.com/file/d/1NZfyY95Ria7TJMhhy76MW5mRTGM6eOKU/view?usp=sharing)
+   This model was used in a fashion recommendation project supervised by Twenty Too © Fashion company.
+
+  For more details, please follow the link for [video demonstration](https://drive.google.com/file/d/1NZfyY95Ria7TJMhhy76MW5mRTGM6eOKU/view?usp=sharing)
+
+<br>
+<br\>
 
 - [Driver distraction detector](https://github.com/ahmedalkadi/Distracted-Driver-Detection_Deep_Learning):
   The project aims to identify the types of distracted driver through their facial and body movement like arms and face pose. The project went through many stages of testing to increase the accuracy of the prediction from   using simple NN to use pretrained models.
@@ -46,7 +50,10 @@ Some other Related topics:
 ## Recommender Systems projects.
 - [Recommendation_Systems_IMDb_Movies_And_Users_Similarity](https://github.com/ahmedalkadi/Recommendation_Systems_IMDb_Movies_And_Users_Similarity):
   The project involves two models; one for calculating movie similarity based on features. The other recommending movies to users by predicting their ratings. The first model uses cosine similarity, while the second         leverages user-rating history with matrix factorization.
-  For more details, please follow the link for video demonstration [Recommendation Systems IMDB Movies and Users Similarity](https://drive.google.com/file/d/1oHviItTj6_KJp0JPsm_uErOuLRVepD3D/view?usp=sharing)
+
+  For more details, please follow the link for [video demonstration](https://drive.google.com/file/d/1oHviItTj6_KJp0JPsm_uErOuLRVepD3D/view?usp=sharing)
+<br>
+<br\>
 
 ## LLMs projects:
 - [SpaceX RAG system](https://github.com/ahmedalkadi/SpaceX_RAG_system):
@@ -55,7 +62,11 @@ Some other Related topics:
 ## Machine learning (Supervised and Unsupersived) Projects.
 - [Devices price classification](https://github.com/ahmedalkadi/devices-price-classification):
   The Devices Price Classification project was designed to predict price categories for electronic devices based on features such as camera quality, screen size, and weight. The project combined machine learning with API    development to create a user-friendly prediction system. I used Python to build a machine learning model that classifies devices into different price categories based on input features. To make the model accessible, I     developed a RESTful API with Spring Boot, which included endpoints for device operations such as GET and POST requests. This allowed users to retrieve device data from an H2 database, add new records, and get price        predictions in real time. For the user interface, I created a Flask application with HTML pages, providing an easy-to-use interface where users could enter device IDs and trigger predictions. The Flask app integrated      with the API, passing device data to the prediction model and displaying the results.
-  For more details, please follow the link for video demonstration [Devices Price Classification System](https://drive.google.com/file/d/15g8Gqzb6F90OPUbjFGOSOOgNvGsYQ625/view?usp=sharing)
+
+  For more details, please follow the link for  [video demonstration](https://drive.google.com/file/d/15g8Gqzb6F90OPUbjFGOSOOgNvGsYQ625/view?usp=sharing)
+<br>
+<br\>
+
 - [Face_Pose_Detector_Machine_Learing](https://github.com/ahmedalkadi/Face_Pose_Detector_Machine_Learing):
   A face pose estimator is a computer vision technique that determines the orientation and position of a human head relative to a camera In this Repo you can detect the pose angles of a picture , web cam video or imported   video In this Repo an augmentation was carried out to help inhance the performance of the roll angle.
 - [Bank_Account_Business_Analysis_Unsupervised_Machine_Learning](https://github.com/ahmedalkadi/Bank_Account_Business_Analysis_Unsupervised_Machine_Learning):
