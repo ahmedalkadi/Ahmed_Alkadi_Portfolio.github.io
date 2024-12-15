@@ -22,5 +22,5 @@ I’m passionate about Computational Fluid Dynamics (CFD), Finite Element Analys
 
 🤖 I enjoy tackling traditional engineering challenges with the power of AI, blending technology and innovation to find smarter solutions [GitHub pages](https://github.com/ahmedalkadi).
 
-🌍 I am actively seeking a postgraduate position where i can leverage AI to address mechanical engineering challenges.
+🌍 I am actively seeking a postgraduate position where I can leverage AI to address mechanical engineering challenges.
 
