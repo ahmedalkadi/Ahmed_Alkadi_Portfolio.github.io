@@ -21,7 +21,10 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/Ahmed-Osama-Alkadi-AC-CV.pdf
-    
+   # url: /files/Ahmed-Osama-Alkadi-AC-CV.pdf
+    url: /files/Ahmed-Osama-Alkadi-ME-CV.pdf
+
+  - title: "IELTS"
+    url: /files/EG75024500510-20-12-2024-ETRF.pdf
   # - title: "Guide"
   #   url: /markdown/
