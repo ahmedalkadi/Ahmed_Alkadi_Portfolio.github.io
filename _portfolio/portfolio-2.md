@@ -7,7 +7,7 @@ collection: portfolio
 The following page shows selected projects utilizing AI in :
 =====
 1. Computer Vision.
-2. Deep fake.
+2. Deepfake.
 3. Natural language Models (NLP) Arabic and English.
 4. Recommender Systems.
 5. Large language models (LLMs).
@@ -15,8 +15,8 @@ The following page shows selected projects utilizing AI in :
 
 Some other Related topics:
 -----
-1. Random Search Algorithim.
-2. Quantum Machine Learning Algorithims.
+1. Random Search Algorithm.
+2. Quantum Machine Learning Algorithms.
 3. Optimizers From Scratch Implementation.
 4. Models Architecture From Scratch Implementation.
 5. Webpages Scrapping. <br/><br/>
@@ -35,7 +35,7 @@ Some other Related topics:
 <br/>
 
 - [Driver distraction detector](https://github.com/ahmedalkadi/Distracted-Driver-Detection_Deep_Learning):
-  The project aims to identify the types of distracted driver through their facial and body movement like arms and face pose. The project went through many stages of testing to increase the accuracy of the prediction from   using simple NN to use pretrained models.
+  The project aims to identify the types of distracted driver through their facial and body movement like arms and face poses. The project went through many stages of testing to increase the accuracy of the prediction from   using simple NN to use pretrained models.
 
 ## Deep fake project.
 - [Video Lip-Syncing](https://github.com/ahmedalkadi/Hight_Quality_LipSync):
@@ -60,7 +60,7 @@ Some other Related topics:
   
 ## Machine learning (Supervised and Unsupersived) Projects.
 - [Devices price classification](https://github.com/ahmedalkadi/devices-price-classification):
-  The Devices Price Classification project was designed to predict price categories for electronic devices based on features such as camera quality, screen size, and weight. The project combined machine learning with API    development to create a user-friendly prediction system. I used Python to build a machine learning model that classifies devices into different price categories based on input features. To make the model accessible, I     developed a RESTful API with Spring Boot, which included endpoints for device operations such as GET and POST requests. This allowed users to retrieve device data from an H2 database, add new records, and get price        predictions in real time. For the user interface, I created a Flask application with HTML pages, providing an easy-to-use interface where users could enter device IDs and trigger predictions. The Flask app integrated      with the API, passing device data to the prediction model and displaying the results.
+  The Devices Price Classification project was designed to predict price categories for electronic devices based on features such as camera quality, screen size, and weight. The project combined machine learning with API    development to create a user-friendly prediction system. I used Python to build a machine-learning model that classifies devices into different price categories based on input features. To make the model accessible, I     developed a RESTful API with Spring Boot, which included endpoints for device operations such as GET and POST requests. This allowed users to retrieve device data from an H2 database, add new records, and get price        predictions in real time. For the user interface, I created a Flask application with HTML pages, providing an easy-to-use interface where users could enter device IDs and trigger predictions. The Flask app integrated      with the API, passing device data to the prediction model and displaying the results.
 
   For more details, please follow the link for  [video demonstration](https://drive.google.com/file/d/15g8Gqzb6F90OPUbjFGOSOOgNvGsYQ625/view?usp=sharing)
 <br/>
@@ -69,18 +69,18 @@ Some other Related topics:
 - [Face_Pose_Detector_Machine_Learing](https://github.com/ahmedalkadi/Face_Pose_Detector_Machine_Learing):
   A face pose estimator is a computer vision technique that determines the orientation and position of a human head relative to a camera In this Repo you can detect the pose angles of a picture , web cam video or imported   video In this Repo an augmentation was carried out to help inhance the performance of the roll angle.
 - [Bank_Account_Business_Analysis_Unsupervised_Machine_Learning](https://github.com/ahmedalkadi/Bank_Account_Business_Analysis_Unsupervised_Machine_Learning):
-  This project aims to perform an analysis of bank account data using unsupervised machine learning techniques. The primary objectives include evaluating different data transformation techniques, comparing the performance   of principal component analysis (PCA) with kernel PCA, exploring various evaluation metrics, and testing multiple unsupervised algorithms for clustering and anomaly detection.
+  This project aims to perform an analysis of bank account data using unsupervised machine-learning techniques. The primary objectives include evaluating different data transformation techniques, comparing the performance   of principal component analysis (PCA) with kernel PCA, exploring various evaluation metrics, and testing multiple unsupervised algorithms for clustering and anomaly detection.
 
 ## Random Search Algorithim projects.
 - [Ant_Colony_Optimization_ACO_Algorithm_For_TSP](https://github.com/ahmedalkadi/Ant_Colony_Optimization_ACO_Algorithm_For_TSP):
   Ant Colony Optimization (ACO) is a metaheuristic algorithm inspired by the foraging behavior of ants. Introduced by Marco Dorigo in the early 1990s, ACO has become a popular method for solving combinatorial optimization   problems.ACO simulates the behavior of ants searching for food to find optimal solutions in a given problem space. The algorithm is particularly effective in scenarios where finding the best path or solution involves      navigating through a large number of possible combinations.
 - [Genetic_Algorithm_For_TSP_and_Knapsack](https://github.com/ahmedalkadi/Genetic_Algorithm_For_TSP_and_Knapsack):
   A Genetic Algorithm (GA) is an optimization technique inspired by natural selection. It starts with a population of possible solutions, evaluates their fitness, and selects the best individuals for reproduction.           Offspring are created through crossover and mutation, introducing variation. The process repeats over generations, evolving better solutions until an optimal or satisfactory solution is found.
-  This algorithim is used to solve following Problems:
+  This algorithm is used to solve the following Problems:
   Traveling Salesman Problem (TSP), is a well-known combinatorial optimization problem. The objective is to find the shortest possible route that visits each city exactly once and returns to the origin city. Given a         list of cities and the distances between each pair of cities, the task is to determine the optimal order in which to visit the cities to minimize the total travel distance.
   Knapsack Problem, is another classic optimization problem. Given a set of items, each with a weight and a value, the objective is to determine the number of each item to include in a collection so that the total           weight is less than or equal to a given limit and the total value is as large as possible.
 
-## Quantum Machine Learning Algorithims Projects.
+## Quantum Machine Learning Algorithms Projects.
 - [Quantum Machine Learning: Implementing the K-Means Algorithm](https://github.com/ahmedalkadi/Kmeans_Implementaion_Quantum_Machine_Learning):
   Quantum Machine Learning (QML) is an emerging field that leverages quantum computing to enhance traditional machine learning algorithms. The K-Means algorithm, a popular clustering method, can benefit from the unique      capabilities of quantum computing, potentially offering improvements in speed and accuracy for large and complex datasets.
   The K-Means algorithm is a method used to partition a dataset into K distinct, non-overlapping subsets (clusters). The goal is to minimize the variance within each cluster. The algorithm follows these steps:
