@@ -1,17 +1,17 @@
 ---
 title: "Electric Vehicle Research"
-excerpt: "The present research aims to design the managing cooling system for the battery system, manufacture the cooling system and integrate the (BCS) with the battery pack. The function of this system is to measure the heat dissipated from the batteries in different conditions from discharging, idling charging and fast charging to deliver the corresponding coolant mass flow rate accordingly."
+excerpt: "The present research aims to design the managing cooling system for the battery system, manufacture the cooling system, and integrate the (BCS) with the battery pack. The function of this system is to measure the heat dissipated from the batteries in different conditions from discharging, idling charging, and fast charging to deliver the corresponding coolant mass flow rate accordingly."
 collection: portfolio 
 ---
 
 ## Research Work Objectives:
 
 
-1. Choose the suitable cooling method (bottom plate cooling, micro channels, immersed cooling or corrugated cooling tubes).
-2. Design mathematical representation of the battery heating.
+1. Choose the suitable cooling method (bottom plate cooling, microchannels, immersed cooling, or corrugated cooling tubes).
+2. Design a mathematical representation of the battery heating.
 3. Build the computational domain in ANSYS software.
 4. Optimize the cooling method to ensure sufficient cooling and uniform battery thermal distribution.
-5. Study the effect of changing the cooling fluid mass flow rate, changing the cooling fluid pathes and dimentions.
+5. Study the effect of changing the cooling fluid mass flow rate, changing the cooling fluid patterns and dimensions.
 
 ## Project Insights:
 
@@ -47,11 +47,11 @@ The designed system comprises:
 - The battery bank is divided into 16 modules, each with 350 (14x25) cells (18650).
 - The outer dimensions of the module are 70cm x 25cm.
 - The outer dimensions of the battery pack are 203cm x 140cm.
-- The required pressure of the pump is estimated to be 270 pascal with a flow rate of around 5 liters/min.
+- The required pressure of the pump is estimated to be 270 pascals with a flow rate of around 5 liters/min.
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture53.png" alt="Cooling Passages" style="width: 100%;">
 
-## For Simplicity, We Will Only Simulate One Path of the Module to Assure Alignment Between the Analytical and Simulation Results
+## For Simplicity, We Will Only Simulate One Path of the Module to Ensure Alignment Between the Analytical and Simulation Results
 
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture42.png" alt="Simulation Path" style="width: 100%;">
