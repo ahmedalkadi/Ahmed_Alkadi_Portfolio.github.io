@@ -9,7 +9,7 @@ collection: portfolio
 
 1. Choose the suitable cooling method (bottom plate cooling, microchannels, immersed cooling, or corrugated cooling tubes).
 2. Design a mathematical representation of the battery heating.
-3. Build the computational domain in ANSYS software.
+3. Build the computational fluid dynamics (CFD) model with the help of ANSYS software.
 4. Optimize the cooling method to ensure sufficient cooling and uniform battery thermal distribution.
 5. Study the effect of changing the cooling fluid mass flow rate, changing the cooling fluid patterns and dimensions.
 
@@ -61,7 +61,7 @@ The designed system comprises:
 
 <br/><img src="https://ahmedalkadi.github.io/Ahmed_Alkadi_Portfolio.github.io/images/EV/Picture54.png" alt="Pack Arrangement" style="width: 100%;">
 
-## Simulation Using Ansys Fluent
+## Simulation Using Ansys Fluent (CFD model)
 
 
 ### Boundary conditions
