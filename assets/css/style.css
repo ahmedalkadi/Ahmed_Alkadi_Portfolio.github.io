@@ -2,7 +2,7 @@
 #clustrmaps-widget {
   width: 100%; /* Makes the widget take up the full width of the sidebar */
   max-width: 260px; /* Limits the width to 260px */
-  margin: 80px auto 0; /* Adds 50px margin-top and centers the widget */
+  margin: 50px auto 0; /* Adds 50px margin-top and centers the widget */
   padding: 10px 0; /* Adds padding around the widget */
   text-align: center; /* Centers the widget's content */
 }
@@ -10,7 +10,7 @@
 /* Fix for mobile views */
 @media (max-width: 768px) {
   #clustrmaps-widget {
-    max-width: 200px; /* Reduces the width for smaller screens */
+    max-width: 260px; /* Reduces the width for smaller screens */
   }
 }
 
@@ -30,6 +30,6 @@
 }
 
 .sidebar.sticky img {
-  max-width: 80%;
+  max-width: 100%;
   height: auto;
 }
