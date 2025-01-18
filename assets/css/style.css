@@ -1,0 +1,13 @@
+#clustrmaps-widget {
+  background-color: #ffffff; /* Optional: Background for better visibility */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional: Shadow for styling */
+  text-align: center;
+  padding: 10px;
+}
+
+.sidebar.sticky {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
