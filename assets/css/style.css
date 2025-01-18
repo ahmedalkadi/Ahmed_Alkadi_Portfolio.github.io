@@ -2,7 +2,7 @@
 #clustrmaps-widget {
   width: 100%; /* Makes the widget take up the full width of the sidebar */
   max-width: 260px; /* Limits the width to 260px */
-  margin: 50px auto 0; /* Adds 50px margin-top and centers the widget */
+  margin: 150px auto 0; /* Adds 50px margin-top and centers the widget */
   padding: 10px 0; /* Adds padding around the widget */
   text-align: center; /* Centers the widget's content */
 }
