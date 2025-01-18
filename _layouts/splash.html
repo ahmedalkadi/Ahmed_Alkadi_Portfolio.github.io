@@ -8,14 +8,13 @@ layout: default
   {% include page__hero.html %}
 {% endif %}
 
-<div id="main" role="main" style="display: flex; align-items: flex-start;">
-  <!-- Widget on the left -->
-  <div style="position: fixed; top: 10%; left: 0; z-index: 1000; padding: 10px;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4OGuzZ6XoxO_8l7ZdTXIhxPffQ2ugPdTSipOV26N4Uc"></script>
-  </div>
+<!-- Widget Container -->
+<div id="widget-container" style="position: fixed; top: 10%; left: 0; z-index: 1000; padding: 10px;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4OGuzZ6XoxO_8l7ZdTXIhxPffQ2ugPdTSipOV26N4Uc"></script>
+</div>
 
-  <!-- Main Content -->
-  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork" style="margin-left: 100px;">
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
