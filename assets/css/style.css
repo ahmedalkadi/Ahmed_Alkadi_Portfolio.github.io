@@ -1,13 +1,20 @@
 #clustrmaps-widget {
-  background-color: #ffffff; /* Optional: Background for better visibility */
-  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional: Shadow for styling */
-  text-align: center;
-  padding: 10px;
+  width: 100%; /* Ensures it fits the sidebar */
+  max-width: 260px; /* Limits the width to 260px */
+  margin: 0 auto; /* Centers the widget */
+  padding: 10px 0; /* Adds padding around the widget */
+  text-align: center; /* Centers the widget's content */
 }
 
 .sidebar.sticky {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   height: 100%;
+  padding: 20px; /* Adjust padding for better layout */
+}
+
+.sidebar.sticky img {
+  max-width: 100%;
+  height: auto;
 }
