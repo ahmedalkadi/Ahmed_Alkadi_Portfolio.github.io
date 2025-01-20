@@ -30,6 +30,7 @@
     </div>
 
     <!-- JavaScript to make the map unclickable -->
+    {% raw %}
     <script>
       document.addEventListener('DOMContentLoaded', function () {
         var clustrmapsLink = document.querySelector('#clustrmaps-widget a');
@@ -40,5 +41,7 @@
         }
       });
     </script>
+    {% endraw %}
+
   </div>
 {% endif %}
