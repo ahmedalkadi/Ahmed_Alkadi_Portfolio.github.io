@@ -7,6 +7,12 @@
   text-align: center; /* Centers the widget's content */
 }
 
+/* Make ClustrMaps widget unclickable */
+#clustrmaps-widget a {
+  pointer-events: none;
+  cursor: default;
+}
+
 /* Fix for mobile views */
 @media (max-width: 768px) {
   #clustrmaps-widget {
