@@ -16,12 +16,18 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 3. Study the effect of programmable coolant temperature profiles on the module temperature and performance.
 4. Build an experimental dataset to develop and validate thermal models and AI models for battery thermal management.
 
+<img width="445" height="373" alt="image" src="https://github.com/user-attachments/assets/4d02b3ea-d4d4-4900-9193-7e527e40b846" />
+
+
 ## The Module Design:
 
 - 12 LG INR21700 M50T NMC cylindrical cells (4.85 Ah, 18.2 Wh nominal) connected in parallel.
 - Ribbon cold plate in contact with the cells, connected to a recirculating chiller.
 - Copper bus bars designed and fabricated for the high-current connections.
 - Two thermocouples on each cell: one on the ribbon side and one on the opposite side.
+
+<img width="559" height="325" alt="image" src="https://github.com/user-attachments/assets/9a3935a3-24f4-4172-a5bd-fd6e984405a5" />
+
 
 ## Test Setup and Instrumentation:
 
@@ -30,6 +36,9 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - **Cooling:** PolyScience recirculating chillers controlled through RS-232 serial communication. I upgraded one of the lab chillers with a DB9 serial port, so the coolant temperature can follow programmable cooling profiles.
 - **Impedance:** Galvanostatic electrochemical impedance spectroscopy (EIS) of the module with a Gamry Interface 5000.
 - **Safety system:** Arduino Due based safety monitoring, with a leak sensor (Blue Robotics SOS) and PT100 RTDs (MAX31865) switched through a relay circuit.
+
+<img width="1498" height="855" alt="image" src="https://github.com/user-attachments/assets/4e096c7e-a13c-4905-8acb-d4b1abbcf08e" />
+
 
 ## Software Development:
 
