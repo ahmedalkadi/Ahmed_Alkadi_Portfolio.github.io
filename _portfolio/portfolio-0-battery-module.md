@@ -46,7 +46,7 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - **Safety firmware:** Embedded firmware for the Arduino Due safety monitoring system.
 - **Cycler programs:** Digatron test programs for the charging, discharging, and drive cycle tests.
 
-<img width="398" height="288" alt="image" src="https://github.com/user-attachments/assets/b4a77da1-a307-4ddd-9ac1-49727e50ad7d" />
+<img width="1247" height="903" alt="image" src="https://github.com/user-attachments/assets/b735f34a-e660-49a5-96ba-c40e6802c250" />
 
 
 
