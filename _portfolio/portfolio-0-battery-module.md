@@ -35,9 +35,22 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - **Temperature measurement:** NI cDAQ-9189 with NI 9213 thermocouple module, logged with FlexLogger.
 - **Cooling:** PolyScience recirculating chillers controlled through RS-232 serial communication. I upgraded one of the lab chillers with a DB9 serial port, so the coolant temperature can follow programmable cooling profiles.
 - **Impedance:** Galvanostatic electrochemical impedance spectroscopy (EIS) of the module with a Gamry Interface 5000.
-- **Safety system:** Arduino Due based safety monitoring, with a leak sensor (Blue Robotics SOS) and PT100 RTDs (MAX31865) switched through a relay circuit.
 
 <img width="1498" height="855" alt="image" src="https://github.com/user-attachments/assets/4e096c7e-a13c-4905-8acb-d4b1abbcf08e" />
+
+
+## The Safety Layer:
+
+The safety layer is a power electronics layer that protects the test rig during the tests. It senses the temperature and the coolant leakage at 2 points, and trips the system in case of a failure.
+
+- **Controller:** Arduino Due running the safety firmware.
+- **Temperature sensing:** Two PT100 RTDs (3-wire) read through a MAX31865 RTD amplifier, switched with a DPDT relay (V23105) driven by an MPS3904 transistor.
+- **Leakage sensing:** Blue Robotics SOS leak sensor to detect any coolant leakage.
+- **Trip circuit:** Relay switching circuit that trips the system once the temperature exceeds the limit or a leakage is detected.
+
+The design went through several iterations to solve the transistor saturation, the flyback diode placement, the back-EMF suppression, and the Arduino Due power architecture.
+
+<img width="2000" height="900" alt="1000168834" src="https://github.com/user-attachments/assets/50fad4bd-f12c-4a0a-a310-b3bf53b7b05f" />
 
 
 ## Software Development:
