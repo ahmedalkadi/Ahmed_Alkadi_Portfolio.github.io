@@ -32,6 +32,7 @@ The Electro-Thermal Model
 -----
 - PyBaMM Doyle-Fuller-Newman (DFN) electrochemical model coupled with a 2D axisymmetric finite difference method (FDM) thermal model, solved with the Crank-Nicolson scheme.
 - The model was validated against the experimental measurements with RMSE between 0.51 °C and 1.21 °C. <br/>
+<img width="264" height="462" alt="image" src="https://github.com/user-attachments/assets/96294748-5733-4764-868c-737ae208b44f" />
 
 
 The Deep Learning Models
@@ -48,16 +49,9 @@ The LLM orchestrator drives five tools:
 3. Prediction evaluator.
 4. Results summarizer.
 5. Results visualizer.
+<img width="539" height="532" alt="image" src="https://github.com/user-attachments/assets/0ff03f72-a1c1-4c7b-bbce-38b67bbec682" />
 
-The agent was tested with different LLM backends on a 7-prompt benchmark for reasoning and instruction following:
 
-| LLM backend | Score |
-|---|---|
-| Gemini 2.5 Flash | 95.2% |
-| Llama 3.1 8B Instant | 52.4% |
-| Gemini 2.5 Flash-Lite | 47.6% |
-
-The results show that advanced LLMs are effective in orchestrating battery thermal diagnostics. <br/>
 
 
 My roles in the research work
