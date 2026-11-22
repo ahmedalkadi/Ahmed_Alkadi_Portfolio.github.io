@@ -46,12 +46,9 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - **Safety firmware:** Embedded firmware for the Arduino Due safety monitoring system.
 - **Cycler programs:** Digatron test programs for the charging, discharging, and drive cycle tests.
 
-## Tests Completed So Far:
+<img width="398" height="288" alt="image" src="https://github.com/user-attachments/assets/b4a77da1-a307-4ddd-9ac1-49727e50ad7d" />
 
-- CC-CV charging tests at 0.5C to 1C.
-- CC-CV charging and discharging tests at 1C to 3C under different coolant temperature profiles.
-- US06 drive cycle tests without coolant flow, as a baseline.
-- EIS of the module.
+
 
 ## Next Steps:
 
