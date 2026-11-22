@@ -16,7 +16,7 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 3. Study the effect of programmable coolant temperature profiles on the module temperature and performance.
 4. Build an experimental dataset to develop and validate thermal models and AI models for battery thermal management.
 
-<img width="445" height="373" alt="image" src="https://github.com/user-attachments/assets/4d02b3ea-d4d4-4900-9193-7e527e40b846" />
+<img width="830" height="696" alt="image" src="https://github.com/user-attachments/assets/20f5631c-1aa7-4361-a4ab-6504b826ebd0" />
 
 
 ## The Module Design:
@@ -26,7 +26,7 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - Copper bus bars designed and fabricated for the high-current connections.
 - Two thermocouples on each cell: one on the ribbon side and one on the opposite side.
 
-<img width="559" height="325" alt="image" src="https://github.com/user-attachments/assets/9a3935a3-24f4-4172-a5bd-fd6e984405a5" />
+<img width="1059" height="616" alt="image" src="https://github.com/user-attachments/assets/c0de91a7-729a-4ec6-9c06-5375c5599646" />
 
 
 ## Test Setup and Instrumentation:
@@ -46,7 +46,7 @@ I am currently building a 12-cell parallel (12p) battery module test rig at the 
 - **Safety firmware:** Embedded firmware for the Arduino Due safety monitoring system.
 - **Cycler programs:** Digatron test programs for the charging, discharging, and drive cycle tests.
 
-<img width="1247" height="903" alt="image" src="https://github.com/user-attachments/assets/b735f34a-e660-49a5-96ba-c40e6802c250" />
+<img width="733" height="531" alt="image" src="https://github.com/user-attachments/assets/1d9cf1df-a315-4e81-b962-ab97bbf75ad2" />
 
 
 
