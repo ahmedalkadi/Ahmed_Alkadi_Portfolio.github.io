@@ -25,5 +25,3 @@ I’m passionate about Computational Fluid Dynamics (CFD), Finite Element Analys
 🎓 I was awarded a fully funded scholarship to study machine learning in a professional manner at the Information Technology Institute (ITI), Egypt, providing a comprehensive understanding of AI and its applications. This includes concepts like supervised/unsupervised learning, neural networks, deep learning, and natural language processing.
 
 🤖 I enjoy tackling traditional engineering challenges with the power of AI, blending technology and innovation to find smarter solutions [GitHub pages](https://github.com/ahmedalkadi).
-
-🌍 I am open to co-op and internship opportunities, as well as research and industry roles where I can leverage AI to address mechanical engineering challenges.
